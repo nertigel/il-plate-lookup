@@ -4,6 +4,8 @@ A Python-based open-source tool that retrieves publicly available vehicle inform
 
 This project focuses on **accuracy, transparency, caching, and clean presentation**, without using paid APIs or private data sources.
 
+![image](gui-showcase.png)
+
 ---
 
 ## ✨ Features
