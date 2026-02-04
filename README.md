@@ -8,6 +8,7 @@ This project focuses on **accuracy, transparency, caching, and clean presentatio
 
 ## ✨ Features
 
+- 💻 Basic PySide6 GUI
 - 🔍 Lookup vehicle data by **Israeli license plate**
 - ♿ Detects whether the vehicle is **registered for disability use**
 - 🧠 Smart **local cache system** (7 days TTL) to reduce API load
